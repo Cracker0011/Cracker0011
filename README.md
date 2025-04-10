@@ -24,10 +24,6 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, terutama dalam 
 
 ## 🐍 Aktivitas GitHub Saya
 
-![GitHub Snake Light](https://github.com/Layzzz66/Layzzz66/blob/output/github-snake.gif)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layzzz66&label=Profile%20views&color=0e75b6&style=flat" alt="layzzz66" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
