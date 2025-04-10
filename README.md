@@ -22,6 +22,10 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, terutama dalam 
 
 ![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Layzzz66&show_icons=true&theme=radical)
 
+## 🐍 Aktivitas GitHub Saya
+
+![github contribution snake](https://github.com/Layzzz66/Layzzz66/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layzzz66&label=Profile%20views&color=0e75b6&style=flat" alt="layzzz66" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
